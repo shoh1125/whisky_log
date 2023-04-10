@@ -23,7 +23,7 @@ Whisky LOG
 # 実装予定の機能
 
 # データベース設計
-[![Image from Gyazo](https://i.gyazo.com/2ca74166c9a77265576e614dbc46c9e8.png)](https://gyazo.com/2ca74166c9a77265576e614dbc46c9e8)
+[![Image from Gyazo](https://i.gyazo.com/72b91fd65bf78fc3f4295ced685572e8.png)](https://gyazo.com/72b91fd65bf78fc3f4295ced685572e8)
 # 画面遷移図
 [![Image from Gyazo](https://i.gyazo.com/537317dd6faa900ade3175d9f9b3f5b5.png)](https://gyazo.com/537317dd6faa900ade3175d9f9b3f5b5)
 # 開発環境
